@@ -1,4 +1,5 @@
 Subject: “Research on the application of big data technologies in the transport sector”
+
 As evidenced by numerous global projects, big data is becoming a research focus in the transportation and logistics industry. 
 Data will be generated in significant quantities by new technologies. They generate massive amounts of data that will significantly impact the design and 
 implementation of transportation systems, making them safer, more efficient, and profitable. As a result, research into big data analytics in transportation 
